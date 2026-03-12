@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "자격 시험 응시료 환급 모델",
-  description: "자격 시험 응시료 환급 모델입니다. 총 4가지 페르소나를 가지고 시뮬레이션을 돌릴 수 있습니다.",
+  description: "자격 시험 응시료 환급 모델입니다. 총 3가지 페르소나를 가지고 시뮬레이션을 돌릴 수 있습니다.",
 };
 
 export default function RootLayout({
