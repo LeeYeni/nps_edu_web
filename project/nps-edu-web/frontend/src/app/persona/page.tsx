@@ -40,7 +40,7 @@ export default function PersonaPage() {
     <div className="flex flex-1 flex-col items-center justify-center bg-gray-50 py-12 px-4">
       <div className="mx-auto max-w-6xl w-full text-center">
         <h1 className="mb-4 text-3xl font-extrabold text-gray-900 sm:text-4xl tracking-tight">
-          테스트를 위한 페르소나를 선택해주세요
+          시뮬레이션을 위한 페르소나를 선택해주세요
         </h1>
         <p className="mb-12 text-gray-500 text-lg">
           유형에 따라 환급 한도 및 불합격 예외 로직이 다르게 적용됩니다.
