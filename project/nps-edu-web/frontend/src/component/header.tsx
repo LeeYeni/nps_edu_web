@@ -50,7 +50,7 @@ export default function Header() {
         
         {/* 로고 */}
         <Link href="/" className="flex items-center gap-2 text-xl font-bold text-blue-600 transition-colors hover:text-blue-700">
-          <span className="tracking-tight text-gray-900">자격 시험 응시료 환급 제도 시뮬레이션</span>
+          <span className="tracking-tight text-gray-900">자격있네</span>
         </Link>
 
         {/* 네비게이션 및 유저 메뉴 */}
